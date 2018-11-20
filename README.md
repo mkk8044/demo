@@ -1,5 +1,2 @@
-City,Temp
-Kolkata,35
-Bangalore,32
-Mumbai,33
-Delhi,37
+day1,day2,day3,day4,day5
+31,32,31,37,36
